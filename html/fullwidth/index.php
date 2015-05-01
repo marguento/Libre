@@ -140,8 +140,8 @@
     	<div class="wrapper">
     		<div class="container">
 				<!-- INCLUDE MENU -->
-				<?php //include 'menu.php';?>
-        		<?php include 'new_menu.php';?>
+				<?php include 'menu.php';?>
+        		<?php //include 'new_menu.php';?>
         	</div>
 		</div>
 	</div>
