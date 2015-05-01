@@ -33,6 +33,13 @@ body, input, textarea {
 	color: #727272;
 }
 
+.repeth1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: normal;
+	color: white;
+	text-transform: uppercase;	
+}
+
 /* Headings */
 h1, 
 h2,
