@@ -29,7 +29,7 @@
 	
     <link rel="stylesheet" href="css/reset.css" type="text/css" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" />
-    
+    <link rel="stylesheet" href="css/ui.progress-bar.css" type="text/css" />    
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
     
     <!-- responsive devices styles -->
@@ -241,14 +241,30 @@
 <div class="content_fullwidth">
 <div class="container">
     
-    <div class="one_half"><img src="http://placehold.it/570x240" alt="" class="img_size1"></div><!-- end section -->
+    <div class="one_half"><img src="images/empresas.png" alt="" class="img_size1">
+
+        <h2 class="nocaps">Las Adicciones y sus Consecuencias en el Ambiente Laboral</h2>
+        
+        <p>Sabemos que una de las preocupaciones de los empresarios son las adicciones (consumo de alcohol y drogas) en el ambiente laboral y por supuesto las consecuencias significativas en sus empresas:</p>
+        <ol>
+            <li>Bajo rendimiento, pérdida de la productividad, baja calidad del servicio, menor satisfacción en los clientes. </li>
+            <li>Disminución de la disponibilidad; ausentismo, costo de medidas disciplinarias, contratación y formación de trabajadores de reemplazo.</li>
+        </ol>
+    </div><!-- end section -->
     
     <div class="one_half last">
-        
-        <h2 class="nocaps">We Build Smarter and Highly Usable Stuff on ThemeForest!</h2>
-        
-        <p>There will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy versions have evolved over the years on purpose.</p>
+        <ol>
+            <li>Disminución de la seguridad: accidentes, indemnización de los trabajadores, servicios de seguridad y prevención de delitos.</li>
+            <li>Aumento de gasto en atención de la salud, en seguridad y los conceptos de incapacidad.</li>
+        </ol>    
 
+        <p>Por otra parte, es importante señalar que las consecuencias de la adicción en el trabajador también son significativas; el estrés, desmoralización, desempleo, escaso desarrollo profesional, pérdida de ingreso económico, lesiones, incapacidad física, mental y muerte. </p><br />
+
+        <p>Datos de la Secretaría del Trabajo indican que los adictos reciben cinco veces más sanciones disciplinarias que el resto de los trabajadores, recurren tres veces más a  prestaciones por enfermedad y presentan cinco veces más solicitudes de indemnización. </p><br />
+
+        <p>Diversos estudios señalan que la quinta parte de los accidentes en el trabajo se relacionan con la ingesta de bebidas alcohólicas, siendo una de las 10 principales causas de discapacidad laboral. </p><br />
+
+        <p>La OIT (Organización Internacional del Trabajo) también precisa que, de los consumidores de alcohol o drogas que tienen un empleo, el ausentismo a nivel mundial es tres o cuatro veces superior en este sector que entre quienes no consumen sustancias adictivas.</p>
     </div><!-- end section -->
     
         
@@ -257,45 +273,26 @@
     
     <div class="one_half">
     
-        <h2 class="ipages_title1"><strong>Who</strong> We Are</h2>
+        <h2 class="ipages_title1"><strong>Otros Datos</strong> de Interés</h2>
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula.</p>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet.</p>
-        
+        <p>De acuerdo a la 5ta Encuesta Nacional de Adicciones en México muestra hallazgos importantes: </p>
+
+        <ol>
+            <li>Casi 27 millones de mexicanos entre 12 y 65 años beben con el patrón de consumo típico con frecuencias que oscilan entre menos de una vez al mes y diario. </li>
+
+            <li>Poco más de cuatro millones de mexicanos cumple con los criterios de dependencia al alcohol, de los cuales tres y medio millones (3 497 946) son hombres y poco más de medio millón (670 117) son mujeres. </li>
+
+            <li>La cerveza es el producto de contenido alcohólico más consumido por la población mexicana. </li>
+
+            <li>El alcohol es el principal problema de adicciones en el país, tanto en el medio rural como urbano. </li>
+
+            <li>10.3 millones de personas entre los 12 y los 65 años requieren un tipo de intervención selectiva, para detectar entre ellas sujetos en riesgo y cerca de 500,000 personas presentan una dependencia a drogas ilegales y requieren un tratamiento residencial.</li>
+        </ol>        
     </div><!-- end section -->
     
     <div class="one_half last">
         
-        <div class="pro_bar inner">
-        
-            <h5 class="nocaps">Website Design</h5>
-            <div id="progress_bar" class="ui-progress-bar ui-container">
-            <div class="ui-progress" style="width: 90%;"><span class="ui-label" style="display: block;"><b class="value">90%</b></span></div>
-            </div><!-- end section -->
-            
-            <br>
-            
-            <h5 class="nocaps">Graphic Design</h5>
-            <div id="progress_bar2" class="ui-progress-bar ui-container">
-            <div class="ui-progress two" style="width: 72%;"><span class="ui-label" style="display: block;"><b class="value">72%</b></span></div>
-            </div><!-- end section -->
-            
-            <br>
-            
-            <h5 class="nocaps">Javascript</h5>
-            <div id="progress_bar3" class="ui-progress-bar ui-container">
-            <div class="ui-progress three" style="width: 80%;"><span class="ui-label" style="display: block;"><b class="value">80%</b></span></div>
-            </div><!-- end section -->
-            
-            <br>
-            
-            <h5 class="nocaps">Development</h5>
-            <div id="progress_bar4" class="ui-progress-bar ui-container">
-            <div class="ui-progress four" style="width: 94%;"><span class="ui-label" style="display: block;"><b class="value">94%</b></span></div>
-            </div><!-- end section -->
-        
-        </div>
+<img src="images/site-img36.png" alt="" class="img_left">
         
     </div><!-- end section -->
     
@@ -308,64 +305,8 @@
 
 <div class="clearfix"></div>
 <br /><br />
-<!-- COPIAR FOOTER DESDE AQUI -->
-<div class="footer1">
-    <div class="container">
-        <div class="one_fourth">    
-            <ul class="faddress">
-                <li style="padding-top: 0px; padding-bottom: 0px;"><img src="images/logonew2.png" alt="" width="50%"/></li>
-                <li style="padding-top: 0px; padding-bottom: 0px;"><i class="fa fa-map-marker fa-lg"></i>&nbsp; Ctra. Libre Tijuana-Rosarito Km. 9 y 1/2 #27<br>Aguaje de la Tuna, Tijuana, BC 22490.</li>
-                <li style="padding-top: 0px; padding-bottom: 0px;"><i class="fa fa-phone"></i>&nbsp; +52 (664) 637.1711</li>
-                <li style="padding-top: 0px; padding-bottom: 0px;"><i class="fa fa-phone"></i>&nbsp; +1 (619) 694.1002</li>
-                <li style="padding-top: 0px; padding-bottom: 0px;"><a href="contacto@libredeadicciones.com"><i class="fa fa-envelope"></i> contacto@libredeadicciones.com</a></li>
-            </ul>
-        </div><!-- end address -->
-    
-        <div class="one_fourth">
-            <div class="frposts">
-                <h3 class="lmb nocaps">Posts Recientes</h3>
-                <ul>
-                    <li><a href="#"><i class="fa fa-caret-right"></i> Consectetuer adipiscn endisse</a></li>
-                    <li><a href="#"><i class="fa fa-caret-right"></i> Adipiscing luctus nisl magna</a></li>
-                    <li><a href="#"><i class="fa fa-caret-right"></i> 5 Plus Diffrent Header Designs</a></li>
-                    <li><a href="#"><i class="fa fa-caret-right"></i> Aliquam rhoncus, venenatis quis</a></li>
-                </ul>
-        
-            </div>
-        </div>
-    
-        <div class="one_fourth">
-            <div class="twitter_feed">
-                <h3 class="nocaps">Tweets Recientes</h3>
-                <div class="left"><i class="fa fa-twitter fa-lg"></i></div>
-                <div class="right">
-                    <a href="https://twitter.com/gsrthemes9" target="_blank">gsrthemes9</a>: Libre de adicciones<br />
-                    <a href="#" class="small">.9 days ago</a> .
-                    <a href="#" class="small">reply</a> .
-                    <a href="#" class="small">retweet</a> .
-                    <a href="#" class="small">favorite</a>
-                </div>
-                    
-                <div class="clearfix margin_top3"></div>    
-                    <div class="left"><i class="fa fa-twitter fa-lg"></i></div>
-                    <div class="right"><a href="https://twitter.com/gsrthemes9" target="_blank">Libre de adicciones<br />
-                    <a href="#" class="small">.10 days ago</a> .
-                    <a href="#" class="small">reply</a> .
-                    <a href="#" class="small">retweet</a> .
-                    <a href="#" class="small">favorite</a>
-                </div>    
-            </div>
-        </div>
-    
-        <div class="one_fourth last">
-            <div class="siteinfo">
-                <h3 class="lmb nocaps">Quienes Somos</h3>
-                    <p>Somos un Centro de rehabilitación y una clinica especializada en el tratamiento de adicciones. Con un modelo de tratamiento integral y un enfoque sistemático y profesional</p>
-                <br />
-            </div>
-        </div>
-    </div>
-</div><!-- HASTA AQUI -->
+
+<?php include 'footer.php';?>
 
 <div class="clearfix"></div>
 
