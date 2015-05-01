@@ -125,7 +125,7 @@
         <div class="wrapper">
             <div class="container">
                 <!-- Logo -->
-                <div class="logo"><a href="index.html" id="logo"></a></div>
+                <div class="logo"><a href="index.php" id="logo"></a></div>
                 
                 <!-- INCLUDE MENU -->
 				<?php include 'menu.php';?>
@@ -223,7 +223,7 @@
               Teléfono: +52 (664) 637.1711<br />
               Tel USA: +1 (619) 694.1002<br />
               E-mail: <a href="contacto@libredeadicciones.com">contacto@libredeadicciones.com</a><br />
-              Página Web: <a href="index.html">www.clinicalibre.com</a> </li>
+              Página Web: <a href="index.php">www.clinicalibre.com</a> </li>
           </ul>
         </div>
 

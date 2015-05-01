@@ -142,7 +142,7 @@
     	<div class="wrapper">
     		<div class="container">
 				<!-- Logo -->
-				<div class="logo"><a href="index.html" id="logo"></a></div>
+				<div class="logo"><a href="index.php" id="logo"></a></div>
 				
 		      <!-- INCLUDE MENU -->
 				<?php include 'menu.php';?>

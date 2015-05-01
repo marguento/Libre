@@ -142,7 +142,7 @@
     	<div class="wrapper">
     		<div class="container">
 				<!-- Logo -->
-				<div class="logo"><a href="index.html" id="logo"></a></div>
+				<div class="logo"><a href="index.php" id="logo"></a></div>
 				<!-- INCLUDE MENU -->
 				<?php include 'menu.php';?>
         		<?php //include 'new_menu.php';?>
@@ -287,7 +287,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6"><a href="contacto.html">Leer Más</a>
+						style="z-index: 6"><a href="contacto.php">Leer Más</a>
 					</div>
                        
 				</li>
@@ -389,7 +389,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6"><a href="contacto.html">Leer Más</a>
+						style="z-index: 6"><a href="contacto.php">Leer Más</a>
 					</div>           
 				</li>
                 

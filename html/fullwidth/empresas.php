@@ -142,7 +142,7 @@
     	<div class="wrapper">
     		<div class="container">
 				<!-- Logo -->
-				<div class="logo"><a href="index.html" id="logo"></a></div>
+				<div class="logo"><a href="index.php" id="logo"></a></div>
 				
 		        <!-- INCLUDE MENU -->
 				<?php include 'menu.php';?>
@@ -250,7 +250,7 @@
     
     <div class="one_half last">
         
-<img src="images/site-img36.png" alt="" class="img_left">
+<img src="images/empresa_estadistica.png" alt="" class="img_left">
         
     </div><!-- end section -->
     
