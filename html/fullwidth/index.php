@@ -29,6 +29,7 @@
 	
     <link rel="stylesheet" href="css/reset.css" type="text/css" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" />
+	<link rel="stylesheet" href="css/cubeportfolio.min.css" type="text/css" />
     
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
     
@@ -75,9 +76,6 @@
     <!-- REVOLUTION SLIDER -->
    	<link rel="stylesheet" type="text/css" href="js/revolutionslider/rs-plugin/css/settings.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="js/revolutionslider/css/slider_main.css" media="screen" />
-    
-    <!-- cubeportfolio -->
-	<link rel="stylesheet" type="text/css" href="js/cubeportfolio/cubeportfolio.min.css">
     
 	<!-- tabs -->
     <link rel="stylesheet" type="text/css" href="js/tabs/assets/css/responsive-tabs.css">
@@ -137,15 +135,18 @@
     
 	</div><!-- end top navigation -->
 	
-    
-	<div id="trueHeader">
+   <!--	<div id="trueHeader"> --> 
+	<div>
     	<div class="wrapper">
     		<div class="container">
+<<<<<<< Updated upstream
 				<!-- Logo -->
 				<div class="logo"><a href="index.php" id="logo"></a></div>
+=======
+>>>>>>> Stashed changes
 				<!-- INCLUDE MENU -->
-				<?php include 'menu.php';?>
-        		<?php //include 'new_menu.php';?>
+				<?php //include 'menu.php';?>
+        		<?php include 'new_menu.php';?>
         	</div>
 		</div>
 	</div>
