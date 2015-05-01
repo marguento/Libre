@@ -127,52 +127,9 @@
                 <!-- Logo -->
                 <div class="logo"><a href="index.html" id="logo"></a></div>
                 
-                <!-- MENU COPIAR DE AQUI -->
-                <div class="menu_main"> 
-                    <nav class="navbar navbar-default fhmm" role="navigation">
-                         <div class="navbar-header">
-                            <button type="button" data-toggle="collapse" data-target="#defaultmenu" class="navbar-toggle">Menu <i class="fa fa-bars tbars"></i></button>
-                         </div><!-- end navbar-header -->
-                
-                        <div id="defaultmenu" class="navbar-collapse collapse">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown"><a href="index.html">Home</a></li>
-                                <li class="dropdown active"><a href="identidad_libre.html">Identidad Libre</a></li>
-                                <li class="dropdown"><a href="servicios.html" data-toggle="dropdown" class="dropdown-toggle">Servicios</a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="servicios.html#intervencion">Intervención en Crisis</a></li>
-                                        <li><a href="servicios.html#desintoxicacion">Desintoxicación</a></li>
-                                        <li><a href="servicios.html#rehabilitacion">Rehabilitción Residencial</a></li>
-                                        <li><a href="servicios.html#prevencion">Prevención de Recaidas</a></li>
-                                        <li><a href="servicios.html#acompanamiento">Acompañamiento</a></li>
-                                        <li><a href="servicios.html#equinoterapia">Equinoterapia</a></li>
-                                        <li><a href="servicios.html#instalaciones">Instalaciones</a></li>                                
-                                    </ul><!-- end dropdown-menu -->
-                                </li>
-                                <li class="dropdown"><a href="tratamiento.html" data-toggle="dropdown" class="dropdown-toggle">Tratamientos</a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="tratamiento.html">Alcohol</a></li>
-                                        <li><a href="tratamiento.html">Drogas</a></li>
-                                        <li><a href="tratamiento.html">Transtornos Alimenticios</a></li>
-                                        <li><a href="tratamiento.html">Codependencia</a></li>
-                                        <li><a href="tratamiento.html">Ludopatía</a></li>
-                                        <li><a href="tratamiento.html">Transtornos Duales</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="empresas.html">Empresas</a></li>
-                                <li class="dropdown"><a href="noticias.html">Noticias</a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="noticias.html">Blog</a></li>
-                                        <li><a href="noticias.htmll">Eventos</a></li>
-                                    </ul><!-- end dropdown-menu -->
-                                </li>
-                            </ul><!-- end nav navbar-nav -->
-                            <ul class="nav navbar-nav navbar-right">
-                                <li><a href="contacto.html">Contacto</a></li>
-                            </ul>
-                        </div><!-- end #navbar-collapse-1 -->
-                    </nav>   
-                </div><!-- HASTA AQUI -->
+                <!-- INCLUDE MENU -->
+				<?php include 'menu.php';?>
+        		<?php //include 'new_menu.php';?>
         
             </div>
         </div>
