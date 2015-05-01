@@ -139,11 +139,6 @@
 	<div>
     	<div class="wrapper">
     		<div class="container">
-<<<<<<< Updated upstream
-				<!-- Logo -->
-				<div class="logo"><a href="index.php" id="logo"></a></div>
-=======
->>>>>>> Stashed changes
 				<!-- INCLUDE MENU -->
 				<?php //include 'menu.php';?>
         		<?php include 'new_menu.php';?>
