@@ -6,8 +6,8 @@ echo "
             <ul class='faddress'>
                 <li style='padding-top: 0px; padding-bottom: 0px;'><img src='images/logonew2.png' alt='' width='50%'/></li>
                 <li style='padding-top: 0px; padding-bottom: 0px;'><i class='fa fa-map-marker fa-lg'></i>&nbsp; Ctra. Libre Tijuana-Rosarito Km. 9 y 1/2 #27<br>Aguaje de la Tuna, Tijuana, BC 22490.</li>
-                <li style='padding-top: 0px; padding-bottom: 0px;'><i class='fa fa-phone'></i>&nbsp; +52 (664) 637.1711</li>
-                <li style='padding-top: 0px; padding-bottom: 0px;'><i class='fa fa-phone'></i>&nbsp; +1 (619) 694.1002</li>
+                <li style='padding-top: 0px; padding-bottom: 0px;'><a href='tel:+526646371711'><i class='fa fa-phone'></i>&nbsp; +52 (664) 637.1711</li></a>
+                <li style='padding-top: 0px; padding-bottom: 0px;'><a href='tel:+16196941002'><i class='fa fa-phone'></i>&nbsp; +1 (619) 694.1002</li></a>
                 <li style='padding-top: 0px; padding-bottom: 0px;'><a href='contacto@libredeadicciones.com'><i class='fa fa-envelope'></i> contacto@libredeadicciones.com</a></li>
             </ul>
         </div><!-- end address -->

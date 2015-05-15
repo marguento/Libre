@@ -11,8 +11,8 @@
 			                    <li class="dropdown"><a href="identidad_libre.php">Identidad Libre</a></li>
 			                    <li class="dropdown"><a href="servicios.php" data-toggle="dropdown" class="dropdown-toggle">Servicios</a>
 			                  		<ul class="dropdown-menu" role="menu">
-			                            <li><a href="servicios.php">Intervención en Crisis</a></li>
-			                            <li><a href="servicios.php">Desintoxicación</a></li>
+			                            <li><a href="intervencion.php">Intervención en Crisis</a></li>
+			                            <li><a href="desintoxicacion.php">Desintoxicación</a></li>
 			                            <li><a href="servicios.php">Rehabilitción Residencial</a></li>
 			                             <li><a href="servicios.php">Equinoterapia</a></li>
 			                             <li><a href="servicios.php">Acompañamiento Espiritual</a></li>
