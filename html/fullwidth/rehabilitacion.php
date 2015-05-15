@@ -162,7 +162,7 @@
     
   
     <div class="one_half">
-    	<h2 class="ipages_title1" id="rehabilitacion"><strong>Rehabilitación </strong> Residencial</h2>
+    	<h2 class="ipages_title1"><strong>Rehabilitación </strong> Residencial</h2>
 
     	<p>En esta fase, el paciente se incorpora a nuestra área residencial, conviviendo con otros compañeros y recibiendo un tratamiento integral así como actividades individuales y de grupo:</p>
     	<br />

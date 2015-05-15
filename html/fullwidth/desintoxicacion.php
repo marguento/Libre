@@ -162,7 +162,7 @@
    
     <div class="one_half last">
 		
-        <h2 class="ipages_title1" id="desintoxicacion"><strong>Desintoxicación</strong></h2>
+        <h2 class="nocaps"><strong>Desintoxicación</strong></h2>
         
         <p>Es el momento cuando el paciente ingresa a nuestra Clínica y se le brinda una evaluación clínica, atención médico-psiquiátrica, cuidados de enfermería 24 Hrs. al día y tratamiento sintomático de la abstinencia necesaria para salvaguardar su integridad física, mental y emocional. Regularmente por un tiempo corto de dos a tres días hasta mejorar la sintomatología de su síndrome de abstinencia, para después incorporarse a la Fase de Rehabilitación Residencial.</p>
 	</div><!-- end section -->

@@ -13,7 +13,7 @@
 			                  		<ul class="dropdown-menu" role="menu">
 			                            <li><a href="intervencion.php">Intervención en Crisis</a></li>
 			                            <li><a href="desintoxicacion.php">Desintoxicación</a></li>
-			                            <li><a href="servicios.php">Rehabilitción Residencial</a></li>
+			                            <li><a href="rehabilitacion.php">Rehabilitción Residencial</a></li>
 			                             <li><a href="servicios.php">Equinoterapia</a></li>
 			                             <li><a href="servicios.php">Acompañamiento Espiritual</a></li>
 			                            <li><a href="servicios.php">Prevención de Recaidas</a></li>			                            			                       

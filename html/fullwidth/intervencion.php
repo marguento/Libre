@@ -160,7 +160,7 @@
 <div class="container">
 	
     <div class="one_half">
-    	<h2 class="ipages_title1" id="intervencion"><strong>Intervención</strong> en Crisis</h2>
+    	<h2 class="nocaps"><strong>Intervención</strong> en Crisis</h2>
         <p>Una intervención tiene como propósito lograr interrumpir el consumo de sustancias adictivas con la colaboración de familiares, y motivar al paciente a que pueda recibir un tratamiento profesional, digno y oportuno. Es Inusual que el adicto por si solo pida ayuda, el tiene la falsa creencia de tener el control, "cuando yo quiera dejo de consumir", además, es poco probable que sea capaz de tomar la decisión de buscar tratamiento, a menos que se encuentre en medio de una crisis. </p>
         <br />
         <p>Por ello, es importante que la familia tome una decisión con amor para que el paciente a través de una intervención profesional se motive a recibir un tratamiento bajo internamiento.</p>

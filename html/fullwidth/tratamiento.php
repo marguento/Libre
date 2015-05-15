@@ -198,7 +198,7 @@
 <div class="features_sec32">
 <div class="container">
 
-	<h2 class="section_title_white fure lessmar nocaps"><strong>Tratamiento</strong></h2>
+	<h2 class="section_title_white fure lessmar nocaps"><strong>Transtornos</strong></h2>
     
     <p class="less1 white">Existe una larga lista de trastornos que en forma directa o indirecta puede
 
