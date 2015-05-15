@@ -479,7 +479,7 @@
 
 <div class="container">
 
-<h2 class="section_title_drakgray lessmar"><strong>Bienvenidos a </strong>Clinica Libre</h2>
+<h2 class="nocaps"><strong>Bienvenidos a </strong>Cliníca Libre</h2>
 <p class="less1">Clínica Libre, Unidad de Tratamiento en Adicciones S.C. Para ayudarle a tomar la decisión correcta acerca del tratamiento que le salvará la vida a usted, a su familiar o a su ser querido. Somos un Centro de Rehabilitación y una Clínica Especializada en el Tratamiento de Adicciones, Ludopatía, Tratamiento de Trastornos de la Conducta Alimenticia y Tratamiento de Trastornos Duales, con un modelo de tratamiento integral y un enfoque sistemático, ético y profesional. Contamos con un grupo de profesionales expertos. Revise nuestro sitio, inicie una sesión de chat con un especialista, déjenos mensaje o márquenos con confianza, estamos para servirle.</p>
 
 <br />

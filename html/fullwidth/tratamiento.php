@@ -198,9 +198,25 @@
 <div class="features_sec32">
 <div class="container">
 
-	<h2 class="section_title_white fure lessmar"><strong>Trastornos</strong></h2>
+	<h2 class="section_title_white fure lessmar nocaps"><strong>Tratamiento</strong></h2>
     
-    <p class="less1 white">Existe una larga lista de trastornos que en forma directa o indirecta puede causar el alcohol; anorexia, gastritis, ulceras en el aparato digestivo, pancreatitis, neuritis periférica, epilepsia alcohólica, síndrome amnésico de Kolsacov, alucinosis paranoica, delirium tremens y varios tipos de enfermedades mentales.
+    <p class="less1 white">Existe una larga lista de trastornos que en forma directa o indirecta puede
+
+causar el alcohol; anorexia, gastritis, ulceras en el aparato digestivo, pancreatitis, 
+
+neuritis periférica, epilepsia alcohólica, síndrome amnésico de Kolsacov, 
+
+alucinosis paranoica, delirium tremens y varios tipos de enfermedades mentales.
+
+Reconocemos que la rehabilitación del alcoholismo es de largo plazo, por ello, la 
+
+desintoxicación es tan solo el inicio de un proceso de recuperación del paciente.
+
+Nuestro objetivo es alcanzar dos metas fundamentales: La abstinencia del 
+
+alcohol y promover una vida de calidad con salud física y emocional. (ver, 
+
+Desintoxicación y Rehabilitación)
 	<br />
 
 </p>

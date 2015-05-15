@@ -487,33 +487,6 @@
 
 <div class="clearfix"></div>
 
-<div class="copyright_info">
-<div class="container">
-    
-    <div class="one_half">
-    
-        Copyright © 2014 elos.com. All rights reserved.  <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a>
-        
-    </div>
-    
-    <div class="one_half last">
-        
-        <ul class="footer_social_links">
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="#"><i class="fa fa-skype"></i></a></li>
-            <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-            <li><a href="#"><i class="fa fa-html5"></i></a></li>
-            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-            <li><a href="#"><i class="fa fa-rss"></i></a></li>
-        </ul>
-            
-    </div>
-    
-</div>
-</div><!-- end copyright info -->
 
 
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
