@@ -167,9 +167,11 @@
         <p>Es el momento cuando el paciente ingresa a nuestra Clínica y se le brinda una evaluación clínica, atención médico-psiquiátrica, cuidados de enfermería 24 Hrs. al día y tratamiento sintomático de la abstinencia necesaria para salvaguardar su integridad física, mental y emocional. Regularmente por un tiempo corto de dos a tres días hasta mejorar la sintomatología de su síndrome de abstinencia, para después incorporarse a la Fase de Rehabilitación Residencial.</p>
 	</div><!-- end section -->
     
-        
+         <div class="one_half last">        
+        <div class="pro_bar inner"><img src="images/detox.png" alt="" class="img_size1"></div>
+    </div>
 	<div class="clearfix divider_dashed2"></div><!-- end divider line -->
-    
+
   
       
 </div>
