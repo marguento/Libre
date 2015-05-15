@@ -157,65 +157,29 @@
 <div class="clearfix"></div>	
 
 <div class="content_fullwidth">
-
+<div class="container">
+	
    
-    <div class="features_sec42 two">
-    <div class="container">
-    
-    <div class="one_half">
-    	<h2 class="ipages_title1"><strong>Equinoterapia</strong></h2>
-        <p>Es una Psicoterapia Asistida con el caballo, donde se promueve que el paciente logre un crecimiento y aprendizaje de si mismo, interactuando en libertad mediante dinámicas en las que participan un profesional en psicología asistida con caballos y un terapeuta en adicciones. Son sesiones altamente confrontativas que le permiten al paciente trabajar con sus miedos, frustraciones, inseguridades, soberbia y capacidad para resolver problemas, el trabajo en equipo y la comunicación. Además contamos con: hipoterapia y monta terapéutica.</p>
-        <br />
-
-    </div><!-- end section -->
-    
-	<div class="one_half last"><img src="images/srv4.png" alt="" class="img_size1"></div>
-
-
-    <div class="clearfix divider_dashed2"></div><!-- end divider line -->
-
-    <div class="one_half"><img src="images/srv4.png" alt="" class="img_size1"></div><br>
-    
-
-    <!-- end section -->
-    
     <div class="one_half last">
 		
-        <h2 class="ipages_title1" id="equinoterapia"><strong>Equinoerapia</strong></h2>
+        <h2 class="ipages_title1"><strong>Apoyo a Familias</strong></h2>
         
-         <p>En la psicoterapia asistida con el caballo (Equinoterapia) se  promueve:</p>
-        <ul>
-            <li>-Desarrollar un comportamiento cooperativo</li>
-            <li>-Favorecer el contacto con el Aquí y Ahora</li>
-            <li>-Permitir liberar emociones reprimidas</li>
-            <li>-Reducir la ansiedad y el estrés</li>
-            <li>-Permitir largos periodos de atención y autoconcentración</li>
-            <li>-Aumentar la autoestima, autoconfianza y autoaceptación, la capacidad de decisión, autocontrol</li>
-            <li>-Elevar el sentido de responsabilidad</li>
-            <li>-Ayudar a la reflexión</li>
-            <li>-Mejorar la capacidad para resolver problemas</li>
-            <li>-Contribuir al mejor manejo del enojo y la frustración</li>
-            <li>-Incrementar la tolerancia y la paciencia</li>
-            <li>-Mejorar la disciplina</li>
-            <li>-Ayudar a establecer y respetar límites</li>
-            <li>-Ayudar a mejorar la integración familiar</li>
-            <li>-Elevar el compromiso con la recuperación</li>
-            <li>-Mejorar la comunicación y las relaciones interpersonales</li>        
-        </ul>
-	</div><!-- end section --> 
+        <p>Es necesario que la familia forme parte del proceso de recuperación del su familiar interno, ya que si bien son parte del problema, también lo son para la solución, por ello, la importancia de generar conocimiento de la enfermedad de la adicción y conciencia de enfermedad.</p><br> 
 
-    <div class="clearfix divider_dashed2"></div><!-- end divider line -->    
-        
-	</div>
-	</div>
+<p>Al ingresar el paciente, se le proporciona a la familia una agenda de citas donde participará en terapias de familia, de pareja y de grupo. Se permite que todo familiar directo del paciente conozca la dinámica familiar que se vive cuando uno de sus elementos ha caído en la adicción. 
+</p><br>
+<p>Las familias estarán informadas de la evolución del familiar interno en forma periódica y cuando la misma lo solicite.
+</p><br>
+<p>Para el caso de familias que viven en otras ciudades o en el extranjero, se proporciona asistencia a través de videoconferencias (por medio del Internet) o recomendaciones por vía telefónica.
+</p>
+	</div><!-- end section -->
+    
+         <div class="one_half last">        
+        <div class="pro_bar inner"><img src="images/detox.png" alt="" class="img_size1"></div>
+    </div>
+	<div class="clearfix divider_dashed2"></div><!-- end divider line -->
 
-</div>
-</div>
-
-<div class="features_sec20" style="padding-top: 0px; ">
-<div class="container">
-
-
+  
       
 </div>
 </div>

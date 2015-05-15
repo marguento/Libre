@@ -14,9 +14,9 @@
 			                            <li><a href="intervencion.php">Intervención en Crisis</a></li>
 			                            <li><a href="desintoxicacion.php">Desintoxicación</a></li>
 			                            <li><a href="rehabilitacion.php">Rehabilitción Residencial</a></li>
-			                             <li><a href="servicios.php">Equinoterapia</a></li>
+			                             <li><a href="equinoterapia.php">Equinoterapia</a></li>
 			                             <li><a href="servicios.php">Acompañamiento Espiritual</a></li>
-			                            <li><a href="servicios.php">Prevención de Recaidas</a></li>			                            			                       
+			                            <li><a href="apoyo_familia.php">Apoyo a Familias</a></li>			                            			                       
 			                            <li><a href="servicios.php">Instalaciones</a></li>    	                           
 			                        </ul><!-- end dropdown-menu -->
 			          			</li>
