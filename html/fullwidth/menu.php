@@ -15,9 +15,9 @@
 			                            <li><a href="desintoxicacion.php">Desintoxicación</a></li>
 			                            <li><a href="rehabilitacion.php">Rehabilitción Residencial</a></li>
 			                             <li><a href="equinoterapia.php">Equinoterapia</a></li>
-			                             <li><a href="servicios.php">Acompañamiento Espiritual</a></li>
+			                             <li><a href="acompanamiento_espiritual.php">Acompañamiento Espiritual</a></li>
 			                            <li><a href="apoyo_familia.php">Apoyo a Familias</a></li>			                            			                       
-			                            <li><a href="servicios.php">Instalaciones</a></li>    	                           
+			                            <li><a href="instalaciones.php">Nuestras Instalaciones</a></li>    	                           
 			                        </ul><!-- end dropdown-menu -->
 			          			</li>
 			                    <li class="dropdown"><a href="tratamiento.php" data-toggle="dropdown" class="dropdown-toggle">Tratamientos</a>

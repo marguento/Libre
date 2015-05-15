@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 
 <head>
-	<title>Clinica Libre - Servicios</title>
+	<title>Clinica Libre - Rehabilitación Residencial</title>
 	
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />

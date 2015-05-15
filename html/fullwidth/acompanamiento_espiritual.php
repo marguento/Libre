@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 
 <head>
-	<title>Clinica Libre - Apoyo a la Familia</title>
+	<title>Clinica Libre - Acompañamiento Espiritual</title>
 	
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
@@ -162,20 +162,20 @@
    
     <div class="one_half last">
 		
-        <h2 class="ipages_title1"><strong>Apoyo a Familias</strong></h2>
+        <h2 class="ipages_title1"><strong>Acompañamiento Espiritual</strong></h2>
         
-        <p>Es necesario que la familia forme parte del proceso de recuperación del su familiar interno, ya que si bien son parte del problema, también lo son para la solución, por ello, la importancia de generar conocimiento de la enfermedad de la adicción y conciencia de enfermedad.</p><br> 
+        <p>Se basa en reuniones grupales donde una persona participa en la comunicación de experiencias personales, relacionándola con:</p><br>
+<ul>
+<li>-La lectura activa individual</li>
+<li>-Y grupal de pasajes bíblicos</li>
+<li>-Y fortaleciéndola con cánticos motivacionales.</li>
 
-<p>Al ingresar el paciente, se le proporciona a la familia una agenda de citas donde participará en terapias de familia, de pareja y de grupo. Se permite que todo familiar directo del paciente conozca la dinámica familiar que se vive cuando uno de sus elementos ha caído en la adicción. 
-</p><br>
-<p>Las familias estarán informadas de la evolución del familiar interno en forma periódica y cuando la misma lo solicite.
-</p><br>
-<p>Para el caso de familias que viven en otras ciudades o en el extranjero, se proporciona asistencia a través de videoconferencias (por medio del Internet) o recomendaciones por vía telefónica.
-</p>
-	</div><!-- end section -->
+
+	</ul>
+    </div><!-- end section -->
     
          <div class="one_half last">        
-        <div class="pro_bar inner"><img src="images/detox.png" alt="" class="img_size1"></div>
+        <div class="pro_bar inner"><img src="images/srv3.png" alt="" class="img_size1"></div>
     </div>
 	<div class="clearfix divider_dashed2"></div><!-- end divider line -->
 

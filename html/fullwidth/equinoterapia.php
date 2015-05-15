@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 
 <head>
-	<title>Clinica Libre - Servicios</title>
+	<title>Clinica Libre - Equinoterapia</title>
 	
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
@@ -175,7 +175,7 @@
     <div class="clearfix divider_dashed2"></div><!-- end divider line -->
 
     <div class="one_half"><img src="images/srv4.png" alt="" class="img_size1"></div><br>
-    
+
 
     <!-- end section -->
     
